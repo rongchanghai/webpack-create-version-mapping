@@ -1,6 +1,6 @@
 {
     "name": "webpack-create-version-mapping",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "create version mapping",
     "main": "index.js",
     "scripts": {},
