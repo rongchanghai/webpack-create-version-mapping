@@ -1,0 +1,9 @@
+{
+    "name": "webpack-create-version-mapping",
+    "version": "1.0.0",
+    "description": "create version mapping",
+    "main": "index.js",
+    "scripts": {},
+    "author": "Manster",
+    "license": "MIT"
+}
